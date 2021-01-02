@@ -1,6 +1,7 @@
 from Crypto.Cipher import AES
 from Crypto import Random
 
+
 # avand in vedere ca acest lib va fi importat de catre nodul A si B, atunci este indeplinita cerinta "cheia K3 este detinuta din start de toate cele 3 noduri"
 k3 = "cheiacomunicare3"
 
